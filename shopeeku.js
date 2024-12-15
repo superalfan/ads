@@ -80,7 +80,7 @@
     }
 
     // Example usage:
-    const popup = new PopupHandler("https://example.com", {
+    const popup = new PopupHandler("https://s.shopee.co.id/5VEv5XStdP", {
         newTab: true,
         beforeOpen: () => console.log("Popup about to open"),
         afterOpen: () => console.log("Popup opened"),
